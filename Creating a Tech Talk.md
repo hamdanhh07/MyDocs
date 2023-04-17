@@ -1,7 +1,4 @@
 # عملpdf   عن طريق نماذج قوقل و ارسالها الى الايميل
-
-# Why Teach?
-
 - Connections/Networking
 - Reputation
 - Jobs/Promotions
