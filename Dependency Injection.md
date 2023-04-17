@@ -2,7 +2,7 @@
 
 Note: Dependency Injection is a hard concept to understand. If this is your first time learning about DI it may not make sense this time around- that’s okay. You may need to go through a few different explanations until able to sort it out.
 
-![Whiteboard](./images/DependencyInjection.png)
+(./images/DependencyInjection.png)
 
 ## Resources
 
