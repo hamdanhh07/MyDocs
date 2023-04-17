@@ -6,8 +6,6 @@ Dataset: [Stack Overflow Developer Survey 2022](https://insights.stackoverflow.c
 
 Power BI is a popular enterprise business intelligence tool. It allows you to gather data and transform it into charts, tables, and other visualizations. It shares engines with Excel PowerPivot and Microsoft Analysis Services.
 
-There are three big-picture components to the Power BI ecosystem: Power BI Desktop, the Power BI service within M365, and Power BI Report Server (which is a rebrand of SQL Server Reporting Services). Since the service has minimal development capabilities, we will focus on the desktop version.
-
 **Note: The desktop app will suggest you sign in to the Power BI service. This isn't required for this workshop.**
 
 ## Importing Data
