@@ -37,7 +37,7 @@ click on "اطلب الان"
 
 ### Shahm ID page explained
 
-![Image of bounded contexts within a business](./images/idExplained.png)
+![Image of bounded contexts within a business](./images/explained.png)
 
 ### Shahm Troubleshooting/ support
 as menthied before *You will need a MOH email and Connect to MOH netowrk* you cant access shahm without these two .
