@@ -4,7 +4,7 @@
 
 
 ## ID
-in order to login to shahm u need to do the following thing first
+in order to login to shahm , you will need to do the following thing first
 1. Connect to MOH netowrk , you cant access shahm in your local network .
 2. You need a MOH email . 
 3. prepere employee id , CV , Bloodtype and contract .
