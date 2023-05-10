@@ -51,10 +51,14 @@ for support you can contact them at the email or phone below:
 
 ### Permanent
 Download the file in : [تصريح ستيكر دائم](https://drive.google.com/file/d/18tIJvSwBJt-Hin6_3D2Zcqn_EXdDcNco/view?usp=sharing)
+After Filling the form , Send it to the following email with Vehicle Registeration as pdf :
+P-Permits@moh.gov.sa
+
 
 ### Temporary
 Download the file in : [تصريح مؤقت](https://drive.google.com/file/d/18tIJvSwBJt-Hin6_3D2Zcqn_EXdDcNco/view?usp=sharing)
-
+After Filling the form , Send it to the following email with Vehicle Registeration as pdf :
+P-Permits@moh.gov.sa
 
 
 ## Laptop 
