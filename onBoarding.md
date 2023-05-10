@@ -15,7 +15,7 @@ Go to the following page : [Shahm]([http://a.com](https://itsm.moh.gov.sa/))
 
 Type your personal email and password "Note the email will be writing with out "@moh.gov.sa" as shown below:
 
-![Image of bounded contexts within a business](./images/login1.png)
+![Image of bounded contexts within a business](./images/Login1.png)
 
 ![Image of bounded contexts within a business](./images/login2.png)
 ### Shahm home page
