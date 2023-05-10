@@ -49,10 +49,12 @@ for support you can contact them at the email or phone below:
 
 ## Car Sticker 
 
-## Permanent
-Download the file in : [Shahm](https://itsm.moh.gov.sa/)
+### Permanent
+Download the file in : [Drive](https://drive.google.com/file/d/18tIJvSwBJt-Hin6_3D2Zcqn_EXdDcNco/view?usp=sharing)
 
-![Image of bounded contexts within a business](./images/ddd-.png)
+### Temporary
+Download the file in : [Drive](https://drive.google.com/file/d/18tIJvSwBJt-Hin6_3D2Zcqn_EXdDcNco/view?usp=sharing)
+
 
 
 ## Laptop 
